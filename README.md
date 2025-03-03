@@ -7,7 +7,7 @@ Objective
 The objective was to utilise the request library and the BeautifulSoup library in Python within a 
 webscraping project. The scrapthissite allow the use of request and BeautifulSoup Python libraries within this mini project.
 
-Hockey stats webscrapper pseudo code 
+Hockey stats webscrapper pseudo code:
 
 This is the pseudo code that i created for the hockey stats webscrapper. 
 
