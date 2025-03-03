@@ -1,4 +1,4 @@
-Hockey stats webscrapper 
+Hockey stats webscraper 
 
 This is a webscrapper that takes hockey stats from scrapthissite.com and put them into a csv file.
 
